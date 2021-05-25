@@ -5,6 +5,6 @@ console.log ('Addition = '+ calc.add(x,y));
 
 console.log('Subtraction = ' + calc.subtract(x,y));
 
-console.log('Multiplication = ' + calc.multiply(x,y));
+console.log('Multiplication1 = ' + calc.multiply(x,y));
 
 console.log('Division = ' + calc.div(x,y));
